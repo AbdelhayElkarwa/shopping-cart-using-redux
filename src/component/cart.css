@@ -1,0 +1,30 @@
+
+.cart-img{margin-bottom: 0 !important}
+.item{
+    margin-top: 20px;
+}
+.title{font-size: 15px; margin-bottom: 10px;}
+.cartItem .info{
+    padding-bottom: 8px;
+    padding-left: 13px;
+    border-bottom: 1px solid gray;
+    margin-top: 13px ;
+
+
+}
+
+.button{
+    margin-left: 5px;
+}
+
+.cartItem ul {
+    list-style-type: none;
+    padding-left: 0 !important
+}
+
+.price{
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}

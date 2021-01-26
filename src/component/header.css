@@ -1,0 +1,21 @@
+.header  {
+    background-color: rgb(20, 30, 40);
+    margin: 0;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    
+    
+}
+
+.header a {
+    margin: 0;
+    color: white;
+    text-decoration: none;
+    margin-left: 5px;
+   
+}
+
+.header a:hover{
+    color: tomato;
+}
